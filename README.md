@@ -1,4 +1,4 @@
-Myanmar Vehicle & License Plate Detection (YOLOv8)
+# Myanmar Vehicle & License Plate Detection (YOLOv8)
 
 This project focuses on detecting vehicles and their license plates in Myanmar using the YOLOv8 object detection model. It includes a custom modern Tkinter GUI to upload test images and visualize the real-time detection results seamlessly.
 
