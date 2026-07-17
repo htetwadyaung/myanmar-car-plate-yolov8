@@ -1,0 +1,6 @@
+train: D:/hwa/github project/myanmar-car-license-plate/train/images
+val: D:/hwa/github project/myanmar-car-license-plate/valid/images
+test: D:/hwa/github project/myanmar-car-license-plate/test/images
+
+nc: 2
+names: ['car', 'plate']
