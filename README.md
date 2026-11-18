@@ -6,4 +6,4 @@ This project focuses on detecting vehicles and their license plates in Myanmar u
 - `data.yaml`: Dataset configuration file defining train/val/test paths and classes.
 - `train.py`: The Python script used for training the YOLOv8 model locally.
 - `gui_test.py`: A modern desktop interface built with Tkinter for testing image inferences.
-![UI Preview](images/plate_ui.jpg)
+![UI Preview](images/plate_ui.png)
